@@ -1,2 +1,6 @@
 /postgres-keycloak-data
 2024__yandex-architecture-sso.code-workspace
+.DS_Store
+/certs/
+/.env
+/keycloak/runtime-export/
